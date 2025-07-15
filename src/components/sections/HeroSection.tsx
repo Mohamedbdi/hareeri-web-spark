@@ -78,7 +78,7 @@ const HeroSection = () => {
               {/* Profile image */}
               <div className="relative z-10 floating">
                 <img
-                  src="/lovable-uploads/910a29b6-2cb2-4c6c-999f-46b310ee650e.png"
+                  src="/lovable-uploads/8c0cf272-9a58-4ea1-8aad-dd64d5b79b8b.png"
                   alt="Mohamed Abdisalan Ali"
                   className="w-80 h-80 lg:w-96 lg:h-96 object-cover rounded-lg shadow-elegant"
                 />
