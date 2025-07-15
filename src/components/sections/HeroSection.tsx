@@ -27,7 +27,7 @@ const HeroSection = () => {
               <p className="text-accent font-medium text-lg">Hello, I'm</p>
               <h1 className="text-5xl lg:text-6xl font-bold text-foreground">
                 Mohamed
-                <span className="block text-primary">Abdisalan Ali</span>
+                <span className="block text-primary">Ali</span>
               </h1>
               <p className="text-xl text-muted-foreground font-medium">
                 Computer Science Graduate & Full Stack Developer
