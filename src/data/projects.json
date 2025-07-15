@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce website built with ASP.NET Core and React. Features include user authentication, product catalog, shopping cart, and payment integration.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+    "tags": ["ASP.NET", "React", "C#", "SQL Server", "JavaScript"],
+    "category": "web",
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "Modern task management application with real-time collaboration features. Built with React and Node.js, featuring drag-and-drop interface and team collaboration tools.",
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop",
+    "tags": ["React", "Node.js", "MongoDB", "Socket.io", "JavaScript"],
+    "category": "web",
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 3,
+    "title": "Brand Identity Design",
+    "description": "Complete brand identity package including logo design, color palette, typography, and brand guidelines. Created using Adobe Creative Suite.",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&h=300&fit=crop",
+    "tags": ["Photoshop", "Illustrator", "Branding", "UI/UX"],
+    "category": "design",
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 4,
+    "title": "Mobile App UI/UX",
+    "description": "Modern mobile application interface design with focus on user experience. Includes wireframes, prototypes, and final design mockups.",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
+    "tags": ["Figma", "UI/UX", "Mobile Design", "Prototyping"],
+    "category": "design",
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 5,
+    "title": "Promotional Video",
+    "description": "Professional promotional video with motion graphics and sound design. Created for a tech startup using Adobe Premiere Pro and After Effects.",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=300&fit=crop",
+    "tags": ["Premiere Pro", "After Effects", "Motion Graphics", "Video Editing"],
+    "category": "video",
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 6,
+    "title": "Database Management System",
+    "description": "Custom database management system for inventory tracking. Built with C# and SQL Server, featuring advanced reporting and analytics.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+    "tags": ["C#", "SQL Server", "Database Design", "Analytics"],
+    "category": "software",
+    "link": "#",
+    "github": "#"
+  }
+]
