@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { Button } from '../ui/button';
-import profileImage from '../../assets/mohamed-profile.jpg';
+
 
 const HeroSection = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -78,7 +78,7 @@ const HeroSection = () => {
               {/* Profile image */}
               <div className="relative z-10 floating">
                 <img
-                  src={profileImage}
+                  src="/lovable-uploads/910a29b6-2cb2-4c6c-999f-46b310ee650e.png"
                   alt="Mohamed Abdisalan Ali"
                   className="w-80 h-80 lg:w-96 lg:h-96 object-cover rounded-lg shadow-elegant"
                 />
